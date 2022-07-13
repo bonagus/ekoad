@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ekoad/static/css/main.528e7af9.chunk.css",
-    "main.js": "/ekoad/static/js/main.656cb5dd.chunk.js",
-    "main.js.map": "/ekoad/static/js/main.656cb5dd.chunk.js.map",
-    "runtime-main.js": "/ekoad/static/js/runtime-main.d41e0308.js",
-    "runtime-main.js.map": "/ekoad/static/js/runtime-main.d41e0308.js.map",
-    "static/css/2.818a745e.chunk.css": "/ekoad/static/css/2.818a745e.chunk.css",
-    "static/js/2.d672ebc9.chunk.js": "/ekoad/static/js/2.d672ebc9.chunk.js",
-    "static/js/2.d672ebc9.chunk.js.map": "/ekoad/static/js/2.d672ebc9.chunk.js.map",
-    "static/js/3.0e78b65c.chunk.js": "/ekoad/static/js/3.0e78b65c.chunk.js",
-    "static/js/3.0e78b65c.chunk.js.map": "/ekoad/static/js/3.0e78b65c.chunk.js.map",
-    "index.html": "/ekoad/index.html",
-    "static/css/2.818a745e.chunk.css.map": "/ekoad/static/css/2.818a745e.chunk.css.map",
-    "static/css/main.528e7af9.chunk.css.map": "/ekoad/static/css/main.528e7af9.chunk.css.map",
-    "static/js/2.d672ebc9.chunk.js.LICENSE.txt": "/ekoad/static/js/2.d672ebc9.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/ekoad/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/slick-theme.css": "/ekoad/static/media/slick.c94f7671.ttf"
+    "main.css": "/static/css/main.00e40bef.chunk.css",
+    "main.js": "/static/js/main.9e9d76de.chunk.js",
+    "main.js.map": "/static/js/main.9e9d76de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b5c59c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b5c59c0.js.map",
+    "static/css/2.a2468816.chunk.css": "/static/css/2.a2468816.chunk.css",
+    "static/js/2.d672ebc9.chunk.js": "/static/js/2.d672ebc9.chunk.js",
+    "static/js/2.d672ebc9.chunk.js.map": "/static/js/2.d672ebc9.chunk.js.map",
+    "static/js/3.0e78b65c.chunk.js": "/static/js/3.0e78b65c.chunk.js",
+    "static/js/3.0e78b65c.chunk.js.map": "/static/js/3.0e78b65c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a2468816.chunk.css.map": "/static/css/2.a2468816.chunk.css.map",
+    "static/css/main.00e40bef.chunk.css.map": "/static/css/main.00e40bef.chunk.css.map",
+    "static/js/2.d672ebc9.chunk.js.LICENSE.txt": "/static/js/2.d672ebc9.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d41e0308.js",
-    "static/css/2.818a745e.chunk.css",
+    "static/js/runtime-main.2b5c59c0.js",
+    "static/css/2.a2468816.chunk.css",
     "static/js/2.d672ebc9.chunk.js",
-    "static/css/main.528e7af9.chunk.css",
-    "static/js/main.656cb5dd.chunk.js"
+    "static/css/main.00e40bef.chunk.css",
+    "static/js/main.9e9d76de.chunk.js"
   ]
 }
